@@ -1,0 +1,19 @@
+{
+  "name": "crabby-grab",
+  "version": "1.0.3",
+  "description": "Shorthands for grabbing elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micahlt/crabby-grab.git"
+  },
+  "author": "Micah Lindley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micahlt/crabby-grab/issues"
+  },
+  "homepage": "https://github.com/micahlt/crabby-grab#readme"
+}
