@@ -1,7 +1,7 @@
 # crabby-grab
 Shorthands for referencing elements 🦀
 
-![npm](https://img.shields.io/npm/v/crabby-grab?label=npm%20version)
+[![npm](https://img.shields.io/npm/v/crabby-grab?label=npm%20version)](https://www.npmjs.com/package/crabby-grab)
 ## Installation
 `crabby-grab` can easily be installed with `npm`.
 ```bash
